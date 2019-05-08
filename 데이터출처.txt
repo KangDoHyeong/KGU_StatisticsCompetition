@@ -1,0 +1,29 @@
+범죄지수 / 2018 mid-year
+https://www.numbeo.com/crime/rankings_by_country.jsp?title=2018-mid
+
+부패인식지수
+https://en.wikipedia.org/wiki/Corruption_Perceptions_Index
+
+위도/경도
+https://developers.google.com/public-data/docs/canonical/countries_csv
+
+석유매장량 / U.S. EIA (start of 2017)
+https://en.wikipedia.org/wiki/List_of_countries_by_proven_oil_reserves
+
+문맹률
+https://www.worldatlas.com/articles/the-highest-literacy-rates-in-the-world.html
+
+GDP
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+
+농지비율
+https://data.worldbank.org/indicator/AG.LND.AGRI.ZS
+
+기대수명
+https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+
+100,000명당 영아 사망률
+https://en.wikipedia.org/wiki/List_of_countries_by_infant_and_under-five_mortality_rates
+
+100,000명당 자살률
+https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_tasa_de_suicidio
